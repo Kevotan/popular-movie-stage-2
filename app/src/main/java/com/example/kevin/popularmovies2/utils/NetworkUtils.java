@@ -14,7 +14,7 @@ public class NetworkUtils {
     private static final String MOVIE_API_KEY_QUERY_PARAM = "api_key";
     private static final String MOVIE_LANGUAGE_QUERY_PARAM = "language";
     private static final String MOVIE_API_URL = "https://api.themoviedb.org/3/movie";
-    private final static String API_KEY = "309cb8a93762dcd8a82019ea30ce45e1";
+    private final static String API_KEY = "Insert your API Key here";
     private final static String LANGUAGE = "en-US";
 
     private final static String POSTER_BASE_URL = "http://image.tmdb.org/t/p/";
