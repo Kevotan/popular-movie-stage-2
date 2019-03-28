@@ -1,5 +1,10 @@
 # popular-movie-stage-2
 
+<p float="left">
+  <img src="https://github.com/Kevotan/popular-movie-stage-2/blob/master/screenshot-main.jpg" width="300">  
+  <img src="https://github.com/Kevotan/popular-movie-stage-2/blob/master/screenshot-details.jpg" width="300">
+</p>
+
 ## Instructions:
 
 Please insert an API key for the Movie Database API in [`app/src/main/java/utils/NetworkUtils`](https://github.com/Kevotan/popular-movie-stage-2/blob/master/app/src/main/java/com/example/kevin/popularmovies2/utils/NetworkUtils.java)
