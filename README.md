@@ -21,5 +21,3 @@ in the following line of code: ```String API_KEY = "Insert your API Key here";``
   - Users are able to read a description, reviews and see the rating of a selected movie.
   - ALlow users to watch trailers by launching a Youtube link
   - Users are able to mark and unmark movies as favorites to add or delete them from the local favorite movie collection
-
-## Libraries
