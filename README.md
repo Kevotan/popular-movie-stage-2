@@ -13,11 +13,11 @@ in the following line of code: ```String API_KEY = "Insert your API Key here";``
 ## Overview:
 
 - Main Screen:
-  - Show Movies in a List and order them by popularity or top rating
-  - Filter Movies by popularity, top rating or favorites
-  - Users are able to launch a Detail Screen for each movie
+  - Show movies in a List and order them by popularity or top rating
+  - Filter movies by popularity, top rating or favorites
+  - Users are able to launch a detail screen for each movie
   
 - Detail Screen:
-  - Users are able to read a description, reviews and see the rating of a selected movie.
+  - ALlow users to read a description, reviews and see the rating of a selected movie
   - ALlow users to watch trailers by launching a Youtube link
-  - Users are able to mark and unmark movies as favorites to add or delete them from the local favorite movie collection
+  - Allow users to mark and unmark movies as favorites to add or delete them from the local favorite movie collection
