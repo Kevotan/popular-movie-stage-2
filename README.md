@@ -18,6 +18,6 @@ in the following line of code: ```String API_KEY = "Insert your API Key here";``
   - Users are able to launch a detail screen for each movie
   
 - Detail Screen:
-  - ALlow users to read a description, reviews and see the rating of a selected movie
-  - ALlow users to watch trailers by launching a Youtube link
+  - Allow users to read a description, reviews and see the rating of a selected movie
+  - Allow users to watch trailers by launching a Youtube link
   - Allow users to mark and unmark movies as favorites to add or delete them from the local favorite movie collection
